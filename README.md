@@ -13,4 +13,4 @@ https://colab.research.google.com/drive/1EPblF4GMse6MrSTOjny2p_cYt39tw_0B?usp=sh
 https://github.com/AlanFWise/EurovisionSA
 
 
-Enjoy.
+Enjoy!
